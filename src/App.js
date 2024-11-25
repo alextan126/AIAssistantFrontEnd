@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 // change this import to test different component
-import Demo from './Demo/SidebarDemo';
+import Demo from './Demo/AssistantMenuDemo';
 import LoginPage from './components/LoginPage';
 import AssistantMenu from './components/AssistantMenu';
 import AssistantConfiguration from './components/AssistantConfiguration';
@@ -13,6 +13,7 @@ function App() {
 }
 
 export default App;
+
 
 /*
 const App = () => {
